@@ -1,1 +1,2 @@
-0x11. C - printf team project
+0x11. C - printf team project 
+This is a team project by Favour simeon and  El hadji Alioune Ndiaye is a custom made printf function written 100% in C, called _printf. The function is optimized to take various inputs and optional arguments exactly the way standard library function printf works. In this case we can say we built our own printf. This project is my first team project. ALX Software Engineering program.
